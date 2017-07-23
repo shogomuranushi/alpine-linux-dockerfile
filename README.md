@@ -13,6 +13,12 @@ alpine              python3-flask       8f10bb9a68ab        3 minutes ago       
 
 ### alpine-python3-flask-boto3
 ```
-REPOSITORY          TAG                   IMAGE ID            CREATED             SIZE
-alpine              python3-flask-boto3   7db32a21f9e2        50 seconds ago      98.7MB
+REPOSITORY          TAG                    IMAGE ID            CREATED              SIZE
+alpine              python3-flask-boto3    cc82a0a60746        11 seconds ago       93.4MB
+```
+
+### alpine-python3-flask-awscli
+``` 
+REPOSITORY          TAG                    IMAGE ID            CREATED             SIZE
+alpine              python3-flask-awscli   d120f888a939        4 seconds ago       109MB
 ```
